@@ -1,6 +1,8 @@
 # Zoom-Server-to-Server-OAuth-API
 This is a PHP code to access the Zoom API with a Server-to-Server-OAuth app
 
+This is an example to get all user webinars.
+
 For more info you can contac me on Linked In
 https://www.linkedin.com/in/ciroartigot/
 
